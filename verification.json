@@ -1,0 +1,18 @@
+{
+  "passed": [
+    "Empty-input validation",
+    "Sample analysis: 8 messages, 4 task candidates, 2 decisions",
+    "Task completion tracking",
+    "Live source-message search",
+    "Decision filtering",
+    "Text download",
+    "Session reset",
+    "HTML injection rendered as text",
+    "Negated decision excluded",
+    "Text import",
+    "390px mobile layout",
+    "No JavaScript exceptions",
+    "No HTTP/HTTPS requests"
+  ],
+  "errors": []
+}
